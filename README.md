@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nick-casey
+- 👋 Hi, I’m nick-casey
 - 👀 I’m interested in ...becoming a developer
 - 🌱 I’m currently learning ...Python 3
 - 💞️ I’m looking to collaborate on ...
